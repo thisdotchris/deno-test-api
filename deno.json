@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev": "deno run --watch --allow-read --allow-env --env-file --allow-net main.ts",
+    "start": "deno run --allow-read --allow-env --env-file --allow-net main.ts"
+  },
+  "imports": {},
+  "nodeModulesDir": "auto",
+  "compilerOptions": {}
+}
